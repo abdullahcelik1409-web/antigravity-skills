@@ -57,6 +57,7 @@ kurallar:
 
 7. Mevcut `cars.json` dosyasını silme veya yeniden oluşturma.
    Sadece yeni araç ekle.
+8. **KRİTİK KURAL**: İlan fotoğrafları (`images` dizisi) içine sadece aracın gerçek görsellerini (dış çekim, iç mekan, motor, detay vb.) ekle. **Full screen ilan bilgi ekranını** (fiyat, teknik özellikler tablosu ve araç bilgilerinin yer aldığı özet ekranı) asla fotoğraf olarak ekleme. Bu ekranı sadece bilgi çekmek için kullan.
 
 ---
 
